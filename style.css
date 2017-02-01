@@ -1,0 +1,31 @@
+body{
+    background-color: #FFB6C1;
+}
+h1{
+    color: black;
+}
+h1:hover{
+  color: khaki;
+  font-size: 50px;
+  opacity: 0.5;
+}
+#giphy{
+    text-align: center;
+}
+input{
+    border-radius: 8px;
+    color: #FFB6C1;
+    font-family: Impact;
+    font-size: 45px;
+}
+.btn{
+    background-color: black;
+}
+.btn:hover{
+    opacity: 0.5;
+}
+img{
+    margin: 50px 10px 10px 10px;
+    height: 150px;
+    width: 15%;
+}
